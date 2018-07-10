@@ -32,7 +32,7 @@ package:
 
 # Adding the functions
 functions:
-  hello:
+  weather:
     handler: CsharpHandlers::WeatherService.Handler::Hello
 
 #Setting up the APIGateWay end point
