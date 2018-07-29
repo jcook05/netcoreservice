@@ -7,7 +7,7 @@ This service represents a simplified service for demo purposes and does not incl
 
 
 
-## Technologies used
+# Technologies used
 
 Serverless Framework
 AWS
